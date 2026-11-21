@@ -11,7 +11,7 @@ POEM = (
     "Neither turns alone.\n"
     "On three, we turn together \u2014\n"
     "and the door no army could break\n"
-    "swings open for an agreement."
+    "swings wide for an agreement."
 )
 
 
