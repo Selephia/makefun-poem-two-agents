@@ -10,7 +10,7 @@ POEM = (
     "Your key is yours; mine is mine.\n"
     "Neither turns alone.\n"
     "On three, we turn together \u2014\n"
-    "and the door no army could force\n"
+    "and the door no army could break\n"
     "swings open for an agreement."
 )
 
